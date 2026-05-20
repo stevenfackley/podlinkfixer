@@ -1,0 +1,25 @@
+name = "podlinkfixer"
+main = "src/index.ts"
+compatibility_date = "2025-05-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Static assets (PWA manifest, service worker, icons, client JS/CSS) served from /
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+# KV namespace for cached lookups (source URL -> matched URLs across platforms).
+# Create with: wrangler kv namespace create LOOKUPS
+# Then paste the returned id below.
+[[kv_namespaces]]
+binding = "LOOKUPS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[observability]
+enabled = true
+
+# Secrets (set with `wrangler secret put <NAME>` for prod, or via .dev.vars for local):
+#   PODCAST_INDEX_KEY
+#   PODCAST_INDEX_SECRET
+#   SPOTIFY_CLIENT_ID
+#   SPOTIFY_CLIENT_SECRET

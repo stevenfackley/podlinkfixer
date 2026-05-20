@@ -1,0 +1,23 @@
+{
+  "name": "podlinkfixer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Paste any podcast URL, get the same show/episode on every other platform.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "hono": "^4.6.14"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250101.0",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8",
+    "wrangler": "^4.93.0"
+  }
+}
