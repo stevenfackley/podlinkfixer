@@ -1,0 +1,18 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "podcastEpisode",
+      "kind": "podcast-episode",
+      "trackId": 1000774831986,
+      "collectionId": 1200361736,
+      "artistName": "The New York Times",
+      "collectionName": "The Daily",
+      "trackName": "The Supreme Court Expands Presidential Power. Again.",
+      "releaseDate": "2026-06-30T09:45:00Z",
+      "trackTimeMillis": 1471000,
+      "episodeUrl": "https://chrt.fm/track/8DB44C/feeds.simplecast.com/Sl5CSM3S/episode-1.mp3",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9/mza_15084852813176276273.jpg/600x600bb.jpg"
+    }
+  ]
+}

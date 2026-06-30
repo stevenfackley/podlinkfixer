@@ -1,0 +1,34 @@
+{
+  "status": "true",
+  "feeds": [
+    {
+      "id": 41504,
+      "podcastGuid": "9b8b3d3f-7c2a-5e1d-9f4a-2c6b8e0a1d3f",
+      "title": "The Daily",
+      "url": "https://feeds.simplecast.com/Sl5CSM3S",
+      "originalUrl": "https://feeds.simplecast.com/Sl5CSM3S",
+      "link": "https://www.nytimes.com/the-daily",
+      "author": "The New York Times",
+      "ownerName": "The New York Times",
+      "image": "https://image.simplecastcdn.com/images/the-daily/3000x3000.jpg",
+      "artwork": "https://image.simplecastcdn.com/images/the-daily/3000x3000.jpg",
+      "itunesId": 1200361736,
+      "language": "en"
+    },
+    {
+      "id": 550123,
+      "title": "The Daily Tech News Show",
+      "url": "https://feeds.example.com/dtns.xml",
+      "link": "https://dailytechnewsshow.com",
+      "author": "Tom Merritt",
+      "ownerName": "Tom Merritt",
+      "image": "https://image.example.com/dtns/3000x3000.jpg",
+      "artwork": "https://image.example.com/dtns/3000x3000.jpg",
+      "itunesId": 977936957,
+      "language": "en"
+    }
+  ],
+  "count": 2,
+  "query": "The Daily",
+  "description": "Found matching feeds."
+}

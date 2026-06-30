@@ -1,0 +1,34 @@
+{
+  "shows": {
+    "href": "https://api.spotify.com/v1/search?query=The+Daily&type=show&market=US&offset=0&limit=5",
+    "items": [
+      {
+        "id": "3IM0lmZxpFAY7CwMuv9H4g",
+        "name": "The Daily",
+        "publisher": "The New York Times",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g"
+        },
+        "images": [
+          { "url": "https://i.scdn.co/image/ab6765630000ba8a5e3b6b1d0c6f3f8a9b2c1d4e", "height": 640, "width": 640 }
+        ],
+        "total_episodes": 2647
+      },
+      {
+        "id": "9Cc5kT6uYeW3q0bOh1Zg6N",
+        "name": "The Daily Tech News Show",
+        "publisher": "Tom Merritt",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/show/9Cc5kT6uYeW3q0bOh1Zg6N"
+        },
+        "images": [
+          { "url": "https://i.scdn.co/image/ab6765630000ba8a1111111111111111", "height": 640, "width": 640 }
+        ],
+        "total_episodes": 3500
+      }
+    ],
+    "limit": 5,
+    "offset": 0,
+    "total": 2
+  }
+}

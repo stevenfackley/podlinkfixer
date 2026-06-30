@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "5Xx9mP2qVbT0n7yLe8Wd3K",
+      "name": "The Supreme Court Expands Presidential Power. Again.",
+      "release_date": "2026-06-30",
+      "release_date_precision": "day",
+      "duration_ms": 1471000,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5Xx9mP2qVbT0n7yLe8Wd3K"
+      }
+    },
+    {
+      "id": "2Aa7kQ9rWcU1o8zMf9Xe4L",
+      "name": "Why Everyone Cares About This World Cup",
+      "release_date": "2026-06-29",
+      "release_date_precision": "day",
+      "duration_ms": 2289000,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2Aa7kQ9rWcU1o8zMf9Xe4L"
+      }
+    },
+    {
+      "id": "7Bb3jR4sXdV2p9aNg0Yf5M",
+      "name": "The Last 12 Weeks",
+      "release_date": "2026-06-28",
+      "release_date_precision": "day",
+      "duration_ms": 2525000,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7Bb3jR4sXdV2p9aNg0Yf5M"
+      }
+    }
+  ],
+  "total": 2647,
+  "limit": 50,
+  "offset": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5Xx9mP2qVbT0n7yLe8Wd3K",
+  "name": "The Supreme Court Expands Presidential Power. Again.",
+  "description": "A look at the latest ruling and what it means.",
+  "release_date": "2026-06-30",
+  "release_date_precision": "day",
+  "duration_ms": 1471000,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/episode/5Xx9mP2qVbT0n7yLe8Wd3K"
+  },
+  "images": [
+    { "url": "https://i.scdn.co/image/ab6765630000ba8a5e3b6b1d0c6f3f8a9b2c1d4e" }
+  ],
+  "show": {
+    "id": "3IM0lmZxpFAY7CwMuv9H4g",
+    "name": "The Daily",
+    "publisher": "The New York Times",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g"
+    },
+    "images": [
+      { "url": "https://i.scdn.co/image/ab6765630000ba8a5e3b6b1d0c6f3f8a9b2c1d4e", "height": 640, "width": 640 }
+    ],
+    "total_episodes": 2647
+  }
+}

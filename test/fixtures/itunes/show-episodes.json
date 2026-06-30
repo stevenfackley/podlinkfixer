@@ -1,0 +1,41 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "collectionId": 1200361736,
+      "trackId": 1200361736,
+      "artistName": "The New York Times",
+      "collectionName": "The Daily",
+      "feedUrl": "https://feeds.simplecast.com/Sl5CSM3S"
+    },
+    {
+      "wrapperType": "podcastEpisode",
+      "kind": "podcast-episode",
+      "trackId": 1000774831986,
+      "collectionId": 1200361736,
+      "trackName": "The Supreme Court Expands Presidential Power. Again.",
+      "releaseDate": "2026-06-30T09:45:00Z",
+      "trackTimeMillis": 1471000
+    },
+    {
+      "wrapperType": "podcastEpisode",
+      "kind": "podcast-episode",
+      "trackId": 1000774674212,
+      "collectionId": 1200361736,
+      "trackName": "Why Everyone Cares About This World Cup",
+      "releaseDate": "2026-06-29T09:45:00Z",
+      "trackTimeMillis": 2289000
+    },
+    {
+      "wrapperType": "podcastEpisode",
+      "kind": "podcast-episode",
+      "trackId": 1000774557921,
+      "collectionId": 1200361736,
+      "trackName": "The Last 12 Weeks",
+      "releaseDate": "2026-06-28T10:00:00Z",
+      "trackTimeMillis": 2525000
+    }
+  ]
+}
