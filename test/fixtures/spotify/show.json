@@ -1,0 +1,15 @@
+{
+  "id": "3IM0lmZxpFAY7CwMuv9H4g",
+  "name": "The Daily",
+  "publisher": "The New York Times",
+  "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world.",
+  "media_type": "audio",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g"
+  },
+  "images": [
+    { "url": "https://i.scdn.co/image/ab6765630000ba8a5e3b6b1d0c6f3f8a9b2c1d4e", "height": 640, "width": 640 },
+    { "url": "https://i.scdn.co/image/ab67656300005f1f5e3b6b1d0c6f3f8a9b2c1d4e", "height": 300, "width": 300 }
+  ],
+  "total_episodes": 2647
+}

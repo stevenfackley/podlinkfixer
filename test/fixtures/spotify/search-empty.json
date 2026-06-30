@@ -1,0 +1,9 @@
+{
+  "shows": {
+    "href": "https://api.spotify.com/v1/search?query=No+Such+Show&type=show&market=US&offset=0&limit=5",
+    "items": [],
+    "limit": 5,
+    "offset": 0,
+    "total": 0
+  }
+}
