@@ -23,6 +23,9 @@
   "overrides": {
     "undici@7": "^7.28.0",
     "ws@8": "^8.21.0",
-    "esbuild@0": "^0.28.1"
+    "esbuild@0": "^0.28.1",
+    "brace-expansion@1": "^1.1.16",
+    "brace-expansion@2": "^2.1.2",
+    "brace-expansion@5": "^5.0.7"
   }
 }
