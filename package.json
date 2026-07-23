@@ -19,5 +19,10 @@
     "typescript": "^5.6.3",
     "vitest": "^3.2.7",
     "wrangler": "^4.112.0"
+  },
+  "overrides": {
+    "brace-expansion@1": "^1.1.16",
+    "brace-expansion@2": "^2.1.2",
+    "brace-expansion@5": "^5.0.7"
   }
 }
