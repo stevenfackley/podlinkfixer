@@ -12,13 +12,13 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "hono": "^4.13.2"
+    "hono": "^4.13.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^5.20260814.1",
+    "@cloudflare/workers-types": "^5.20260821.1",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.10",
-    "wrangler": "^4.123.0"
+    "vitest": "^4.1.11",
+    "wrangler": "^4.125.0"
   },
   "overrides": {
     "brace-expansion@1": "^1.1.16",
