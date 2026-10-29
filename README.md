@@ -85,7 +85,7 @@ curl 'http://localhost:8787/api/convert?url=https://podcasts.apple.com/us/podcas
 npm test
 ```
 
-Unit tests cover the URL parsers and the episode-matching logic. An e2e script (`test/e2e.test.ts`) requires `wrangler dev` to be running on port 8787 and hits the live API with real URLs.
+Unit tests cover the URL parsers and the episode-matching logic. An e2e smoke script (`scripts/e2e.mjs`) requires `npm run dev` (wrangler dev on port 8787) and hits the live API with real URLs; run `node scripts/e2e.mjs [baseUrl]`.
 
 ## Deploy
 
